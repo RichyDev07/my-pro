@@ -1,0 +1,38 @@
+.container{
+    background-color: aqua;
+}
+.brigt{
+    text-align: center;
+}
+.img{
+    margin-left: 5cm;
+    
+}
+.con{
+    text-align: center;
+    font-size: 50px;
+}
+.tech{
+    background-color: aquamarine;
+    border-radius: 5%;
+}
+.lam{
+    text-align: center;
+    font-size: 30px;
+}
+.sub{
+    font-size: 20px;
+    margin-left: 30cm;
+}
+.type{
+    margin-left: 17cm;
+    font-size: 20px;
+    
+}
+.app{
+    text-align: center;
+    color: cornflowerblue;
+}
+.form{
+    background-color: aqua;
+}
